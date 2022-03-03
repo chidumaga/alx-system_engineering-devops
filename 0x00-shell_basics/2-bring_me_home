@@ -1,2 +1,2 @@
-#!/bib/bash
-cd
+#!/bin/bash
+cd ../
