@@ -1,2 +1,2 @@
-#!/bin/dash
-ls -1t | head -10
+#!/bin/bash
+sort | uniq -u
